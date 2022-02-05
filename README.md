@@ -2,6 +2,7 @@
 A python module for validating user input
 
 Can validate if the input is a string or an integer.
+
 https://pypi.org/project/ValidateInput/
 
 # Installation and importing
