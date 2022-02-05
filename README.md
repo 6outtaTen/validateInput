@@ -1,4 +1,4 @@
-# validateInput
+# ValidateInput
 A python module for validating user input
 
 Can validate if the input is a string or an integer.
